@@ -336,7 +336,7 @@
 						</defs>
 					</svg>
 
-					<p class="text-xl">I setup a range of prototypes to communicate my concepts.</p>
+					<p class="text-xl">I set up a range of prototypes to communicate my concepts.</p>
 				</div>
 			</div>
 		</div>
