@@ -64,8 +64,29 @@
 				</li>
 				<li>I’ve raised over $1m of venture capital (never again 🙃)</li>
 				<li>
-					I’m a broad-skilled generalist, with professional experience in marketing, sales,
-					development and design
+					I’m a full stack builder, see: <a
+						href="https://www.dwarf.domains/"
+						target="_blank"
+						class="underline underline-offset-2">Dwarf</a
+					>,
+					<a href="https://www.leetux.com/" target="_blank" class="underline underline-offset-2"
+						>LeetUX</a
+					>, ,
+					<a
+						href="https://www.thegamblersguild.com/"
+						target="_blank"
+						class="underline underline-offset-2">Gamblers Guild</a
+					>,
+					<a
+						href="https://www.buildinpublic.live/"
+						target="_blank"
+						class="underline underline-offset-2">Build in Public: Live</a
+					>,
+					<a
+						href="https://aroreretini.dev/projects/"
+						target="_blank"
+						class="underline underline-offset-2">and more</a
+					>, .
 				</li>
 				<li>I’m my nephew’s favorite uncle</li>
 			</ul>
