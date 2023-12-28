@@ -86,7 +86,7 @@
 						href="https://aroreretini.dev/projects/"
 						target="_blank"
 						class="underline underline-offset-2">and more</a
-					>, .
+					>.
 				</li>
 				<li>I’m my nephew’s favorite uncle</li>
 			</ul>
