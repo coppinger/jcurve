@@ -3,6 +3,7 @@
 	import charlie from '$images/charlie.png';
 	import shopify from '$images/shopify-logo.png';
 	import research from '$images/research.png';
+	import wireframing from '$images/wireframing.png';
 	import figma from '$images/figma-thumbnail.png';
 
 	// Videos
@@ -84,6 +85,15 @@
 	<section class="flex flex-col items-center">
 		<div class="h-16 border-l border-dashed w-1"></div>
 		<Intro num="0" title="Research" noDiv={true} />
+		<p class=" max-w-md bg-white gr-border p-8">
+			I started my process by combing through all of Gumroad’s public board meetings to get a good
+			sense of where the company has come from, and where it's going.
+			<br />
+			<br />
+			Things that stood out to me are the intention of developing more core eCommerce features (abandoned
+			carts etc.), as well as ConverKit-like features and website building functionality.
+		</p>
+		<div class="sm-divider"></div>
 		<div class="gr-border flex flex-col max-w-sm">
 			<img
 				src={research}
@@ -119,6 +129,23 @@
 			I studied a handful of flows from the likes of Squarespace and Shopify, and then created a set
 			of wireframes to explore different possible layouts and components.
 		</p>
+		<div class="sm-divider"></div>
+		<div class="gr-border flex flex-col max-w-sm">
+			<img src={wireframing} alt="Screenshot of a FigJam file showing web design wireframes" />
+			<div class="flex border-y bg-accent"><p class="text-xl p-4">Lo-fi Wireframes</p></div>
+			<div class="flex w-full items-stretch bg-white">
+				<div class="w-full p-4">
+					<p>Sketching everything out</p>
+				</div>
+				<div class="h-auto shrink-0 flex items-center justify-center">
+					<a
+						class="flex items-center justify-center px-4 h-full bg-black text-white"
+						href="https://www.figma.com/file/XxsPa6Y3cQ4MwhE0y3EVY7/Op.-Gummybear?type=whiteboard&node-id=398%3A1102&t=s7jfkQjcG13AdQTB-1"
+						target="_blank">View file -></a
+					>
+				</div>
+			</div>
+		</div>
 		<Intro num="3" title="Mockups" />
 
 		<p class=" max-w-md bg-white gr-border p-8">
@@ -139,7 +166,7 @@
 				<div class="h-auto shrink-0 flex items-center justify-center">
 					<a
 						class="flex items-center justify-center px-4 h-full bg-black text-white"
-						href="https://www.figma.com/file/XxsPa6Y3cQ4MwhE0y3EVY7/Op.-Gummybear?type=whiteboard&node-id=398%3A1102&t=s7jfkQjcG13AdQTB-1"
+						href="https://www.figma.com/file/RRMwyaj5LMSAZrYB0UB1KU/Op.-Gummybear?type=design&node-id=316%3A10299&mode=design&t=K2uzAjWKyjCcEvZ8-1"
 						target="_blank">View file -></a
 					>
 				</div>
