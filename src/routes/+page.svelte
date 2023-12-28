@@ -112,7 +112,7 @@
 			<br />
 			<br />
 			Things that stood out to me are the intention of developing more core eCommerce features (abandoned
-			carts etc.), as well as ConverKit-like features and website building functionality.
+			carts etc.), as well as ConvertKit-like features and website building functionality.
 		</p>
 		<div class="sm-divider"></div>
 		<div class="gr-border flex flex-col max-w-sm">
