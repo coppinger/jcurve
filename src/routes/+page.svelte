@@ -54,7 +54,7 @@
 	>
 		<p class="text-xl max-w-md">Here’s a quick snapshot about me</p>
 		<div class="max-w-md w-full">
-			<ul class="list-disc text-xl list-inside">
+			<ul class="flex flex-col gap-2 list-disc text-xl list-outside px-4 md:px-0">
 				<li>
 					I’ve worked at companies small and large, from startups to <img
 						class="inline-block max-w-20"
@@ -121,7 +121,7 @@
 			<br />
 			<br />
 			My reasoning here is that an improved profile would directly increase GMV, by both increasing the
-			conversion rate (thus, volume of transactions), as well as the AOV due to a greater exposure to
+			conversion rate (thus volume of transactions), as well as the AOV, due to a greater exposure to
 			the range of products each creator offers.
 		</p>
 		<Intro num="2" title="Wireframing" />
@@ -183,16 +183,19 @@
 				<p class="text-xl p-4">Website Builder Concept</p>
 				<div class="h-16 w-16 flex items-center justify-center"><Prototype /></div>
 			</div>
+			<div class="flex w-full items-stretch border-b bg-white">
+				<div class="w-full p-4">
+					<p>
+						Prototype flow of a user adding sections to their profile page by using the website
+						builder concept.
+					</p>
+				</div>
+			</div>
 			<div class="w-screen-sm">
 				<video src={reversed} autoplay loop playsinline muted>
 					<source src={reversed} type="video/mp4" />
 					Your browser does not support the video tag. It's a fun gif of a guy flipping a table.
 				</video>
-			</div>
-			<div class="flex w-full items-stretch border-t bg-white">
-				<div class="w-full p-4">
-					<p>Users can quickly add new sections to their profiles.</p>
-				</div>
 			</div>
 		</div>
 		<Intro num="5" title="Reflections" />
@@ -201,7 +204,7 @@
 				<p class="text-4xl">1</p>
 				<p>
 					At first, I spent a good chunk of time trying to split my efforts between building out the
-					new creator pages, as well as a new product creation flow
+					new creator pages, as well as a new product creation flow.
 					<br />
 					<br />
 					In retrospect, I should have focused solely on the latter, which became clear to me once I
@@ -215,19 +218,21 @@
 					of organization within the file itself.
 					<br />
 					<br />
-					Predictably, this correlated with an increased frequency of scrambling for components and styles,
-					but given a less volatile schedule and pace, I am far more diligent with organization.
+					Predictably, this correlated with an increased frequency of scrambling for components and styles
+					towards the end, but given a less volatile schedule and pace, I am usually far more diligent
+					with my organization.
 				</p>
 			</div>
 			<div class="flex flex-col gap-3 p-8">
 				<p class="text-4xl">3</p>
 				<p>
 					Ultimately, I tried to cover a lot of ground, and in doing so there were elements and
-					components that I had to press on with, despite not being completely satisfied with them.
+					components that I had to press on with, despite not being completely satisfied with where
+					they were at.
 					<br />
 					<br />
 					This is a natural part of the design process, given there are always time and resource constraints,
-					but was somewhat of a reflection of the intensity of the sprint.
+					but it was somewhat a reflection of the intensity of the sprint.
 				</p>
 			</div>
 		</div>
