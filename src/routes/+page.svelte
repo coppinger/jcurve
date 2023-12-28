@@ -116,24 +116,14 @@
 		</p>
 		<Intro num="2" title="Wireframing" />
 		<p class=" max-w-md bg-white gr-border p-8">
-			I decided to work on reimagining the creator profile pages. With the basis of a block system
-			in place, and the ability to add a custom domain, it felt like there was an obvious next step
-			to flesh it out.
-			<br />
-			My reasoning here is that an improved profile would directly increase GMV, by both increasing the
-			conversion rate (thus, volume of transactions), as well as the AOV through greater exposure of
-			bundles.
+			I studied a handful of flows from the likes of Squarespace and Shopify, and then created a set
+			of wireframes to explore different possible layouts and components.
 		</p>
 		<Intro num="3" title="Mockups" />
 
 		<p class=" max-w-md bg-white gr-border p-8">
-			I decided to work on reimagining the creator profile pages. With the basis of a block system
-			in place, and the ability to add a custom domain, it felt like there was an obvious next step
-			to flesh it out.
-			<br />
-			My reasoning here is that an improved profile would directly increase GMV, by both increasing the
-			conversion rate (thus, volume of transactions), as well as the AOV through greater exposure of
-			bundles.
+			I kicked off this stage by recreating Gumroad's design system in Figma, followed by a set of
+			mockups, component by component, until I had everything laid out in high fidelity.
 		</p>
 		<div class="sm-divider"></div>
 		<div class="gr-border flex flex-col max-w-sm">
