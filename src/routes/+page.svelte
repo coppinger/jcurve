@@ -6,7 +6,7 @@
 	import figma from '$images/figma-thumbnail.png';
 
 	// Videos
-	import rave from '$videos/rave.mp4';
+	import reversed from '$videos/reversed.mp4';
 
 	// Components
 	import Jcurve from '$components/Jcurve.svelte';
@@ -161,14 +161,14 @@
 			builder concept.
 		</p>
 		<div class="sm-divider"></div>
-		<div class="gr-border flex flex-col max-w-sm">
+		<div class="gr-border flex flex-col">
 			<div class="flex border-b justify-between items-center bg-accent">
-				<p class="text-xl p-4">Adding a section</p>
+				<p class="text-xl p-4">Website Builder Concept</p>
 				<div class="h-16 w-16 flex items-center justify-center"><Prototype /></div>
 			</div>
-			<div class="">
-				<video src={rave} autoplay loop playsinline muted>
-					<source src={rave} type="video/mp4" />
+			<div class="w-screen-sm">
+				<video src={reversed} autoplay loop playsinline muted>
+					<source src={reversed} type="video/mp4" />
 					Your browser does not support the video tag. It's a fun gif of a guy flipping a table.
 				</video>
 			</div>
