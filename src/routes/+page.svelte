@@ -97,7 +97,7 @@
 				<div class="h-auto shrink-0 flex items-center justify-center">
 					<a
 						class="flex items-center justify-center px-4 h-full bg-black text-white"
-						href="#"
+						href="https://www.figma.com/file/XxsPa6Y3cQ4MwhE0y3EVY7/Op.-Gummybear?type=whiteboard&node-id=398%3A1101&t=s7jfkQjcG13AdQTB-1"
 						target="_blank">View file -></a
 					>
 				</div>
@@ -111,8 +111,8 @@
 			<br />
 			<br />
 			My reasoning here is that an improved profile would directly increase GMV, by both increasing the
-			conversion rate (thus, volume of transactions), as well as the AOV through greater exposure of
-			bundles.
+			conversion rate (thus, volume of transactions), as well as the AOV due to a greater exposure to
+			the range of products each creator offers.
 		</p>
 		<Intro num="2" title="Wireframing" />
 		<p class=" max-w-md bg-white gr-border p-8">
@@ -139,7 +139,7 @@
 				<div class="h-auto shrink-0 flex items-center justify-center">
 					<a
 						class="flex items-center justify-center px-4 h-full bg-black text-white"
-						href="#"
+						href="https://www.figma.com/file/XxsPa6Y3cQ4MwhE0y3EVY7/Op.-Gummybear?type=whiteboard&node-id=398%3A1102&t=s7jfkQjcG13AdQTB-1"
 						target="_blank">View file -></a
 					>
 				</div>

@@ -13,7 +13,7 @@
 <svg width="106" height="60" viewBox="0 0 106 60" fill="none" xmlns="http://www.w3.org/2000/svg">
 	{#if condition}
 		<path
-			transition:draw={{ duration: 3000, delay: 3000, easing: quintIn }}
+			transition:draw={{ duration: 2500, delay: 2000, easing: quintIn }}
 			d="M18.75 44.25C18.75 44.25 53 96.25 94.75 1"
 			stroke="black"
 			stroke-width="2"
